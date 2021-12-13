@@ -15,7 +15,7 @@ module.exports.displayBoard = (board) => {
     );
   }
 
-  console.log("____________Board Start_____________");
+  console.log("____________Board End_____________");
   console.log("");
 }
 
